@@ -9,6 +9,7 @@ public class AppClass2 {
     }
 
     public  void method2(){
+        System.out.println("adding second method");
 
     }
 
